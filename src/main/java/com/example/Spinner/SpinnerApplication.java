@@ -1,4 +1,4 @@
-package com.example.Spinner;
+package com.example.spinner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
